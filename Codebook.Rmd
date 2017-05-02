@@ -1,9 +1,4 @@
----
-title: "Codebook"
-author: "Chris Alley"
-date: "5/1/2017"
-output: html_document
----
+# Codebook
 
 ## Reference and Modifications
 
