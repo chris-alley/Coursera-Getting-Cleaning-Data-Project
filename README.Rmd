@@ -1,11 +1,6 @@
----
-title: "README"
-author: "Chris Alley"
-date: "5/2/2017"
-output: html_document
----
+# README
 
-# Coursera: Getting & Cleaning Data Course Project
+## Coursera: Getting & Cleaning Data Course Project
 
 ## Project Purpose
 The purpose of this project gather data from a given dataset and prepare a tidy dataset to be used for later analysis.
@@ -17,7 +12,7 @@ The purpose of this project gather data from a given dataset and prepare a tidy 
 
 * `run_analysis.R`- R script file used to create tidy dataset.
 
-* `subjectActivityMean.csv`- Output file created by `run_analysis.R`
+* `subjectActivityMean.txt`- Output file created by `run_analysis.R`
 
 ## Dataset Description & Source
 The dataset used for this project represents data collected from Samsung Galaxy 5 smartphone accelerometers.  A full description of this dataset can be found at:
